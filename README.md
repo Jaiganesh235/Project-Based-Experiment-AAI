@@ -40,7 +40,7 @@ for feedback in negative_feedback:
 
  ```
 
-<H3>Output:</H3>
+## OUTPUT:
 ![image](https://github.com/Jaiganesh235/Project-Based-Experiment-AAI/assets/118657189/6ce64425-220c-4fd3-a539-b5e07056e655)
 
 <H3>RESULT:</H3>
