@@ -41,6 +41,7 @@ for feedback in negative_feedback:
  ```
 
 <H3>Output:</H3>
+![image](https://github.com/Jaiganesh235/Project-Based-Experiment-AAI/assets/118657189/2a0ae12d-295f-46e3-96fc-5ca6735a94d0)
 
 
 <H3>Inference:</H3>
